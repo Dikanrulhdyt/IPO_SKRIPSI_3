@@ -1,0 +1,104 @@
+.hero{
+
+    min-height:100vh;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    padding:80px;
+
+    background:#08142e;
+
+    overflow:hidden;
+}
+
+.hero-left{
+
+    width:45%;
+}
+
+.hero-right{
+
+    width:55%;
+
+    display:flex;
+
+    justify-content:center;
+}
+
+.hero-right img{
+
+    width:100%;
+
+    max-width:850px;
+}
+
+.badge{
+
+    background:#10204b;
+
+    color:#6da8ff;
+
+    padding:10px 18px;
+
+    border-radius:30px;
+}
+
+.hero h1{
+
+    color:white;
+
+    font-size:64px;
+
+    margin-top:25px;
+
+    line-height:1.1;
+}
+
+.hero span{
+
+    color:#6f7cff;
+}
+
+.hero p{
+
+    color:#c7d3ea;
+
+    margin:30px 0;
+
+    font-size:18px;
+}
+
+.hero button{
+
+    padding:18px 35px;
+
+    background:#5b5df9;
+
+    color:white;
+
+    border:none;
+
+    border-radius:12px;
+
+    font-size:18px;
+
+    cursor:pointer;
+}
+
+.hero button:hover{
+
+    background:#6f72ff;
+}
+
+.feature-list{
+
+    display:flex;
+
+    gap:40px;
+
+    margin-top:60px;
+}

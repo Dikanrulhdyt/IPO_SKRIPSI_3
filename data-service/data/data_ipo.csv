@@ -1,0 +1,238 @@
+kode_emiten,nama_perusahaan,tahun_ipo,underwriter,harga_ipo,jumlah_lot_saham,free_float,sektor
+UVCR,PT Trimegah Karya Pratama Tbk,27-07-2021,SF|XA|YP,100,5000000,25,Technology
+HAIS,PT Hasnur Internasional Shipping Tbk,01-09-2021,DR,300,5252500,20,Transportation & Logistic
+OILS,PT Indo Oil Perkasa Tbk,06-09-2021,BQ,270,1500000,33.04,Consumer Non-Cyclicals
+GPSO,PT Geoprima Solusi Tbk,06-09-2021,SF|XA,180,1666666,25,Technology
+MCOL,PT Prima Andalan Mandiri Tbk,07-09-2021,RF,1420,3555600,10,Energy
+CMNT,PT Cemindo Gemilang Tbk,08-09-2021,KI|CC|AK,680,17188000,10.04,Basic Materials
+RSGK,PT Kedoya Adyaraya Tbk,08-09-2021,RF,1720,1859400,20,Healthcare
+SBMA,PT Surya Biru Murni Acetylene Tbk,08-09-2021,HD,180,2784000,29.99,Basic Materials
+GTSI,PT GTS Internasional Tbk,08-09-2021,LS,100,24000000,15.17,Transportation & Logistic
+RUNS,PT Global Sukses Solusi Tbk,08-09-2021,YP|OD,254,1968000,20.01,Technology
+IDEA,PT Idea Indonesia Akademi Tbk,09-09-2021,IU|KK,140,2124875,20,Consumer Cyclicals
+KUAS,PT ACE OLDFIELDS TBK,25-10-2021,XA,195,3900000,30.17,Basic Materials
+BOBA,PT Formosa Ingredient Factory Tbk,01-11-2021,MI,280,1400000,12.11,Consumer Non-Cyclicals
+MTEL,PT Dayamitra Telekomunikasi Tbk,22-11-2021,CC|S0|GR|OD|GW|IN|PF|IF|BK|RS|CP,800,229205120,27.63,Infrastructures
+BINO,PT Perma Plasindo Tbk,25-11-2021,IU|MG|KK,138,4350000,20,Industrials
+DEPO,PT Caturkarda Depo Bangunan Tbk,25-11-2021,YP,482,10240000,15.08,Consumer Cyclicals
+TAYS,PT JAYA SWARASA AGUNG TBK,06-12-2021,XA|HD,360,2403000,21.87,Consumer Non-Cyclicals
+CMRY,PT Cisarua Mountain Dairy Tbk,06-12-2021,CC|GR|KZ,3080,11902030,15,Consumer Non-Cyclicals
+WMPP,PT Widodo Makmur Perkasa Tbk,06-12-2021,SF|C3|OD|IF|RS|YP|CP,160,44190000,15.02,Consumer Non-Cyclicals
+WGSH,PT Wira Global Solusi Tbk,06-12-2021,AH,140,2085000,20,Technology
+RMKE,PT RMK Energy Tbk,07-12-2021,IU|AO|MG|MI|KK,206,8750000,20,Energy
+AVIA,PT Avia Avian Tbk,08-12-2021,CC|S0|LG|CS|PF|AK,930,62000000,10.01,Basic Materials
+OBMD,PT OBM Drilchem Tbk,08-12-2021,HD,180,1820000,24.86,Basic Materials
+IPPE,PT Indo Pureco Pratama Tbk,09-12-2021,HD|YP,100,10000000,21.74,Consumer Non-Cyclicals
+NASI,PT Wahana Inti Makmur Tbk,13-12-2021,AI,155,2000000,24.77,Consumer Non-Cyclicals
+BSML,PT Bintang Samudera Mandiri Lines Tbk,16-12-2021,II,117,3700450,20,Transportation & Logistic
+DRMA,PT Dharma Polimetal Tbk,20-12-2021,AZ|C3|EP,500,7058823,15,Consumer Cyclicals
+ADMR,PT Adaro Minerals Indonesia Tbk,03-01-2022,KI,100,60485800,15,Energy
+SEMA,PT Semacom Integrated Tbk,10-01-2022,XA,180,3470000,25.76,Industrials
+ASLC,PT Autopedia Sukses Lestari Tbk,25-01-2022,LG|KI,256,25492710,20,Consumer Cyclicals
+NETV,PT Net Visi Media Tbk,26-01-2022,XA,196,7653061,4.37,Consumer Cyclicals
+BAUT,PT Mitra Angkasa Sejahtera Tbk,28-01-2022,AI,100,14500000,30.21,Industrials
+ENAK,PT Champ Resto Indonesia Tbk,08-02-2022,AI,850,4333334,20,Consumer Cyclicals
+NTBK,PT Nusatama Berkah Tbk,09-02-2022,SF|II,100,7000000,25.93,Industrials
+ADCP,PT Adhi Commuter Properti Tbk,23-02-2022,AZ|C3|GR|ZP|IP|RS|YP,130,22222222,10,Properties & Real Estate
+SMKM,PT Sumber Mas Konstruksi Tbk,09-03-2022,AO,264,2500000,19.95,Infrastructures
+STAA,PT Sumber Tani Agung Resources Tbk,10-03-2022,DP|C3,600,8770720,8.06,Consumer Non-Cyclicals
+NANO,PT Nanotech Indonesia Global Tbk,10-03-2022,AI,100,12850000,29.99,Technology
+BIKE,PT Sepeda Bersama Indonesia Tbk,21-03-2022,LG|XA|YP,170,3233340,25,Consumer Cyclicals
+WIRG,PT WIR Asia Tbk,04-04-2022,KI,168,23370900,20,Technology
+SICO,PT Sigma Energy Compressindo Tbk,08-04-2022,XA,230,2700000,29.67,Energy
+GOTO,PT GoTo Gojek Tokopedia Tbk,11-04-2022,CC|C3|D4|GR|NI|LG|CS|PP|AZ|RO|PD|KZ|CP,338,406150560,3.43,Technology
+TLDN,PT Teladan Prima Agro Tbk,12-04-2022,NI|C3,580,5178612,4,Consumer Non-Cyclicals
+MTMH,PT Murni Sadar Tbk,20-04-2022,KI|SQ,1280,2540228,12.28,Healthcare
+IBOS,PT Indo Boga Sukses Tbk,25-04-2022,SF|XA,100,16073600,20,Consumer Cyclicals
+WINR,PT Winner Nusantara Jaya Tbk,25-04-2022,SH|PG|FS|YP,100,15000000,28.65,Properties & Real Estate
+OLIV,PT Oscar Mitra Sukses Sejahtera Tbk,17-05-2022,II,100,4000000,21.1,Consumer Cyclicals
+ASHA,PT Cilacap Samudera Fishing Industry Tbk,27-05-2022,HD|BQ,100,12500000,25,Consumer Non-Cyclicals
+SWID,PT Saraswanti Indoland Development Tbk,07-07-2022,AH,200,3400000,6.31,Properties & Real Estate
+TRGU,PT Cerestar Indonesia Tbk,08-07-2022,MG,210,15000000,18.87,Consumer Non-Cyclicals
+ARKO,PT Arkora Hydro Tbk,08-07-2022,YP|YJ,300,5799000,20,Infrastructures
+CHEM,PT Chemstar Indonesia Tbk,08-07-2022,XA,150,5000000,29.41,Basic Materials
+DEWI,PT Dewi Shri Farmindo Tbk,18-07-2022,HD|AR,100,7000000,35,Consumer Non-Cyclicals
+AXIO,PT Tera Data Indonusa Tbk,20-07-2022,NI|C3,140,10401265,17.81,Technology
+KRYA,PT Bangun Karya Perkasa Jaya Tbk,25-07-2022,IU,125,3250000,20,Infrastructures
+HATM,PT HABCO Trans Maritima Tbk,26-07-2022,XA,160,11187500,16.65,Transportation & Logistic
+RCCC,PT Utama Radar Cahaya Tbk,02-08-2022,SA,135,1500000,20,Transportation & Logistic
+GULA,PT Aman Agrindo Tbk,03-08-2022,AI,250,2140725,20,Consumer Non-Cyclicals
+AMMS,PT Agung Menjangan Mas Tbk,04-08-2022,IU,100,2400000,20,Consumer Non-Cyclicals
+JARR,PT Jhonlin Agro Raya Tbk,04-08-2022,IN|PG|YJ|AR,300,12229500,15.29,Consumer Non-Cyclicals
+RAFI,PT Sari Kreasi Boga Tbk,05-08-2022,IN|CP,126,9480900,30.31,Consumer Cyclicals
+ELPI,PT Pelayaran Nasional Ekalya Purnamasari Tbk,08-08-2022,LG,200,11120000,15,Transportation & Logistic
+EURO,PT Estee Gold Feet Tbk,08-08-2022,II,70,5000000,20,Basic Materials
+KKES,PT Kusuma Kemindo Sentosa Tbk,08-08-2022,YP,105,3000000,20,Basic Materials
+MORA,PT Mora Telematika Indonesia Tbk,08-08-2022,AZ|IN,396,25254643,10.68,Infrastructures
+KLIN,PT Klinko Karya Imaji Tbk,09-08-2022,SA,100,2300000,17.59,Consumer Cyclicals
+BUAH,PT Segar Kumala Indonesia Tbk,09-08-2022,LS,388,2000000,20,Consumer Non-Cyclicals
+TOOL,PT Rohartindo Nusantara Luas Tbk,09-08-2022,YP,127,4100000,20,Consumer Cyclicals
+CRAB,PT Toba Surimi Industries Tbk,10-08-2022,HD,150,3900000,20,Consumer Non-Cyclicals
+MEDS,PT Hetzer Medical Indonesia Tbk,10-08-2022,AN,125,3125000,20,Healthcare
+COAL,PT Black Diamond Resources Tbk,07-09-2022,SF,100,12500000,20,Energy
+OMED,PT Jayamas Medica Industri Tbk,08-11-2022,KI|C3|KZ,204,40588500,15,Healthcare
+BSBK,PT Wulandari Bangun Laksana Tbk,08-11-2022,SH|HD|PG|FS,100,27500000,12.09,Properties & Real Estate
+CBUT,PT Citra Borneo Utama Tbk,08-11-2022,YP|AI|OD|ZP,690,6250000,20,Consumer Non-Cyclicals
+MKTR,PT Menthobi Karyatama Raya Tbk,08-11-2022,II|AN|CP,120,25000000,20.83,Consumer Non-Cyclicals
+PRAY,PT Famon Awal Bros Sedaya Tbk,08-11-2022,PD,900,3022223,2.17,Healthcare
+BELI,PT Global Digital Niaga Tbk,08-11-2022,OD|S0|NI|CS|SQ|CC|PF|PD|RS|DP|CP,450,177712059,15,Consumer Cyclicals
+KDTN,PT Puri Sentul Permai Tbk,09-11-2022,MI,150,2500000,20,Consumer Cyclicals
+PDPP,PT Primadaya Plastisindo Tbk,09-11-2022,MG,200,5000000,20,Basic Materials
+KETR,PT Ketrosden Triasmitra Tbk,10-11-2022,AH,300,4262000,15,Infrastructures
+ZATA,PT Bersama Zatta Jaya Tbk,10-11-2022,AI,100,17000000,20.01,Consumer Cyclicals
+NINE,PT Techno9 Indonesia Tbk,05-12-2022,SA|MI,75,4320000,20.03,Technology
+MMIX,PT Multi Medika Internasional Tbk,06-12-2022,YP,190,6000000,25,Consumer Cyclicals
+PADA,PT Personel Alih Daya Tbk,08-12-2022,AI|AO,100,9000000,28.57,Industrials
+ISAP,PT Isra Presisi Indonesia Tbk,09-12-2022,AI,96,15000000,37.31,Industrials
+VTNY,PT Venteny Fortuna International Tbk,15-12-2022,SF|CD|OD|YP,360,9397791,15,Financials
+BEER,PT Jobubu Jarum Minahasa Tbk,06-01-2023,AI,220,8000000,20,Consumer Non-Cyclicals
+ELIT,PT Data Sinergitama Jaya Tbk,06-01-2023,XA,120,5000000,24.61,Technology
+CBPE,PT Citra Buana Prasida Tbk,06-01-2023,GR,150,2712500,20,Properties & Real Estate
+SOUL,PT Mitra Tirta Buwana Tbk,06-01-2023,AN|AH,110,2700000,24.94,Consumer Non-Cyclicals
+CBRE,PT Cakra Buana Resources Energi Tbk,09-01-2023,DR|HD,108,7380000,16.26,Transportation & Logistic
+SUNI,PT Sunindo Pratama Tbk,09-01-2023,AI,300,6000000,24,Basic Materials
+WINE,PT Hatten Bali Tbk,10-01-2023,XA,129,6780000,25.02,Consumer Non-Cyclicals
+BMBL,PT Lavender Bina Cendikia Tbk,11-01-2023,HD|YP,188,2800000,27.19,Consumer Cyclicals
+PEVE,PT Penta Valent Tbk,24-01-2023,YJ,149,3531250,20,Healthcare
+LAJU,PT Jasa Berdikari Logistics Tbk,27-01-2023,XA,100,7000000,32.56,Transportation & Logistic
+FWCT,PT Wijaya Cahaya Timber Tbk,01-02-2023,YJ,118,3750000,20,Basic Materials
+NAYZ,PT Hassana Boga Sejahtera Tbk,06-02-2023,SF,100,5100000,20,Consumer Non-Cyclicals
+IRSX,PT Aviana Sinar Abadi Tbk,07-02-2023,AH,101,10000000,20,Technology
+PACK,PT Solusi Kemasan Digital Tbk,08-02-2023,XA,162,3080000,20.03,Industrials
+HALO,PT Haloni Jane Tbk,08-02-2023,II|CP,100,11300000,20,Healthcare
+CHIP,PT Pelita Teknologi Global Tbk,08-02-2023,YJ,160,2000000,24.81,Technology
+VAST,PT Vastland Indonesia Tbk,08-02-2023,AO,108,6500000,21.27,Properties & Real Estate
+KING,PT Hoffmen Cleanindo Tbk,16-02-2023,XA,130,5200000,20,Industrials
+PGEO,PT Pertamina Geothermal Energy Tbk,24-02-2023,CC|DX|CS|GW|PF|IF|KZ,875,103500000,25,Infrastructures
+FUTR,PT Lini Imaji Kreasi Ekosistem Tbk,27-02-2023,IU|HD,100,12780000,20,Technology
+HILL,PT Hillcon Tbk,01-03-2023,YP|RX|AZ,1250,4423000,15,Energy
+BDKR,PT Berdikari Pondasi Perkasa Tbk,03-03-2023,MG,200,7061000,15,Infrastructures
+PTMP,PT Mitra Pack Tbk,06-03-2023,XA,120,8000000,25.24,Industrials
+CUAN,PT Petrindo Jaya Kreasi Tbk,08-03-2023,HP|OD,220,16900000,15.03,Energy
+TRON,PT Teknologi Karya Digital Nusa Tbk,08-03-2023,SF,180,7500000,25.42,Technology
+SAGE,PT Saptausaha Gemilangindah Tbk,08-03-2023,II|SH,100,16100000,20.04,Properties & Real Estate
+NSSS,PT Nusantara Sawit Sejahtera Tbk,10-03-2023,IF|OD|AZ|PF|KK|RS|YP,127,35682353,15,Consumer Non-Cyclicals
+GTRA,PT Grahaprima Suksesmandiri Tbk,30-03-2023,AI,150,3788750,20,Transportation & Logistic
+HAJJ,PT Arsy Buana Travelindo Tbk,05-04-2023,SF,140,6871000,29.99,Consumer Cyclicals
+PIPA,PT Multi Makmur Lemindo Tbk,10-04-2023,AH,105,9250000,27.01,Basic Materials
+NCKL,PT Trimegah Bangun Persada Tbk,12-04-2023,CC|YO|AI|C4|CS|TP|DP,1250,79976000,12.67,Basic Materials
+MENN,PT Menn Teknologi Indonesia Tbk,18-04-2023,IU|HD,78,4302000,30,Technology
+AWAN,PT Era Digital Media Tbk,18-04-2023,IF|AZ,100,7500000,21.83,Technology
+TYRE,PT King Tire Indonesia Tbk,08-05-2023,MI,138,7000000,20.13,Consumer Cyclicals
+JATI,PT Informasi Teknologi Indonesia Tbk,08-05-2023,HD|AH,100,6525000,20,Technology
+DOOH,PT Era Media Sejahtera Tbk,08-05-2023,IU|HD,100,15475000,20,Consumer Cyclicals
+RAAM,PT Tripar Multivision Plus Tbk,08-05-2023,AI|AZ,234,9292000,15,Consumer Cyclicals
+MPXL,PT MPX Logistics International Tbk,09-05-2023,GR,108,4000000,20,Transportation & Logistic
+SMIL,PT Sarana Mitra Luas Tbk,12-05-2023,EP|AO|CP,100,17500000,20,Industrials
+MAXI,PT Maxindo Karya Anugerah Tbk,12-06-2023,AH,100,10000000,10.41,Consumer Non-Cyclicals
+KLAS,PT Pelayaran Kurnia Lautan Semesta Tbk,12-06-2023,GR,146,5400000,24.94,Transportation & Logistic
+VKTR,PT VKTR Teknologi Mobilitas Tbk,19-06-2023,KI|LG|IF,100,87500000,20,Consumer Cyclicals
+RELF,PT Graha Mitra Asia Tbk,22-06-2023,AI,90,12000000,20.95,Properties & Real Estate
+AMMN,PT Amman Mineral Internasional Tbk,07-07-2023,CC|OD|NI|ZP|IF|DP|KZ,1695,63282088,8.8,Basic Materials
+CRSN,PT Carsurin Tbk,10-07-2023,XA,125,6000000,20.75,Industrials
+TGUK,PT Platinum Wahab Nusantara Tbk,10-07-2023,MG,110,10714290,30,Consumer Non-Cyclicals
+WIDI,PT Widiant Jaya Krenindo Tbk,10-07-2023,SH,100,4000000,25,Industrials
+GRPM,PT Graha Prima Mentari Tbk,10-07-2023,XA,120,3090000,20,Consumer Non-Cyclicals
+INET,PT Sinergi Inti Andalan Prima Tbk,24-07-2023,AH,101,15000000,20,Technology
+MAHA,PT Mandiri Herindo Adiperkasa Tbk,25-07-2023,LG,118,41660000,25,Energy
+RMKO,PT Royaltama Mulia Kontraktorindo Tbk,31-07-2023,MI,450,2500000,20,Energy
+CNMA,PT Nusantara Sejahtera Raya Tbk,02-08-2023,CC|PD|BK|AK,270,83350000,10,Consumer Cyclicals
+HBAT,PT Minahasa Membangun Hebat Tbk,07-08-2023,YJ,108,2407408,23.13,Properties & Real Estate
+FOLK,PT Multi Garam Utama Tbk,07-08-2023,HD|IF,100,5700000,14.44,Industrials
+ERAL,PT Sinar Eka Selaras Tbk,08-08-2023,YP|NI,390,10375000,20,Energy
+GRIA,PT Ingria Pratama Capitalindo Tbk,08-08-2023,AO,120,17250000,23.39,Properties & Real Estate
+PPRI,PT Paperocks Indonesia Tbk,08-08-2023,IU,140,2750000,25.58,Basic Materials
+CYBR,PT ITSEC Asia Tbk,08-08-2023,YP|LG|AZ,100,10087348,15.64,Technology
+LMAX,PT Lupromax Pelumas Indonesia Tbk,09-08-2023,AH,200,1950000,26.09,Energy
+HUMI,PT Humpuss Maritim Internasional Tbk,09-08-2023,LS,100,27070000,15,Financials
+MUTU,PT Mutuagung Lestari Tbk,09-08-2023,LG|PD,108,9428572,30,Industrials
+MSIE,PT Multisarana Intan Eduka Tbk,10-08-2023,EP|CP,100,3600000,24.66,Consumer Cyclicals
+RSCH,PT Charlie Hospital Semarang Tbk,28-08-2023,AH|SA,115,5300000,20,Healthcare
+BABY,PT Multitrend Indo Tbk,07-09-2023,AI,266,5340000,20.01,Consumer Cyclicals
+AEGS,PT Anugerah Spareparts Sejahtera Tbk,11-09-2023,AH,100,4000000,39.76,Industrials
+IOTF,PT Sumber Sinergi Makmur Tbk,06-10-2023,AH|CP,100,11000000,20.83,Technology
+KOCI,PT Kokoh Exa Nusantara Tbk,06-10-2023,PG,120,4500000,10.19,Properties & Real Estate
+PTPS,PT Pulau Subur Tbk,09-10-2023,XA,198,4500000,20.76,Consumer Non-Cyclicals
+BREN,PT Barito Renewables Energy Tbk,09-10-2023,NI|TP,780,40150000,3,Basic Materials
+STRK,PT Lovina Beach Brewery Tbk,10-10-2023,SH|HD|FZ|PG,100,11800000,11.01,Consumer Non-Cyclicals
+LOPI,PT Logisticsplus International Tbk,11-10-2023,SA,100,3000000,27.27,Transportation & Logistic
+KOKA,PT Koka Indonesia Tbk,11-10-2023,AI|HD,128,7153330,25,Basic Materials
+UDNG,PT Agro Bahari Nusantara Tbk,31-10-2023,EP|BQ,100,5000000,28.57,Consumer Non-Cyclicals
+IKPM,PT Ikapharmindo Putramas Tbk,08-11-2023,TP,165,3369325,20,Healthcare
+MSTI,PT Mastersystem Infotama Tbk,08-11-2023,PD|ZP,1355,4708236,15,Technology
+RGAS,PT Kian Santang Muliatama Tbk,08-11-2023,AO,120,3342000,22.9,Energy
+AYAM,PT Janu Putra Sejahtera Tbk,30-11-2023,AI,100,8000000,20,Consumer Non-Cyclicals
+SURI,PT Maja Agung Latexindo Tbk,07-12-2023,AH,170,12668750,20,Healthcare
+ASLI,PT Asri Karya Lestari Tbk,05-01-2024,XA,100,12500000,20,Basic Materials
+CGAS,PT Citra Nusantara Gemilang Tbk,08-01-2024,PO,338,5314290,30,Energy
+NICE,PT Adhi Kartiko Pratama Tbk,09-01-2024,AI|LG|CP,438,12164040,20,Basic Materials
+MSJA,PT Multi Spunindo Jaya Tbk,10-01-2024,OD|LS,300,8823529,15,Consumer Non-Cyclicals
+SMLE,PT Sinergi Multi Lestarindo Tbk,10-01-2024,EP|AO,175,4656250,20,Basic Materials
+MANG,PT Manggung Polahraya Tbk,11-01-2024,PG,100,7625000,20,Basic Materials
+ACRO,PT Samcro Hyosung Adilestari Tbk,11-01-2024,AI,108,6938280,20,Industrials
+GRPH,PT Griptha Putra Persada Tbk,18-01-2024,SA,103,2000000,20,Consumer Cyclicals
+SMGA,PT Sumber Mineral Global Abadi Tbk,30-01-2024,MI,105,17500000,20,Basic Materials
+UNTD,PT Terang Dunia Internusa Tbk,07-02-2024,YP|OD,240,16666667,25,Consumer Cyclicals
+MPIX,PT Mitra Pedagang Indonesia Tbk,07-02-2024,DR|HD,268,3125000,20,Technology
+ALII,PT Ancara Logistics Indonesia Tbk,07-02-2024,KI|IF,272,31651600,20,Financials
+LIVE,PT Homeco Victoria Makmur Tbk,12-02-2024,IF|AR,148,8083500,17.6,Consumer Cyclicals
+MEJA,PT Harta Djaya Karya Tbk,12-02-2024,EP|AO,103,4800000,25.03,Consumer Cyclicals
+MKAP,PT Multikarya Asia Pasifik Raya Tbk,12-02-2024,YJ,115,6500000,20,Financials
+HYGN,PT Ecocare Indo Pasifik Tbk,13-02-2024,HD,145,5250000,20.79,Industrials
+BAIK,PT Bersama Mencapai Puncak Tbk,15-02-2024,EP|HD,278,2250000,20,Consumer Cyclicals
+VISI,PT Satu Visi Putra Tbk,27-02-2024,SF,120,6150000,20,Industrials
+AREA,PT Dunia Virtual Online Tbk,01-04-2024,GR,131,5100000,20.08,Technology
+ATLA,PT Atlantis Subsea Indonesia Tbk,16-04-2024,SH,100,12000000,19.36,Energy
+MHKI,PT Multi Hanna Kreasindo Tbk,16-04-2024,XA,160,7500000,20,Industrials
+DATA,PT Remala Abadi Tbk,07-05-2024,AI,188,2750000,20,Technology
+SOLA,PT Xolare RCR Energy Tbk,08-05-2024,AI,110,6562500,20,Basic Materials
+BATR,PT Benteng Api Technic Tbk,10-06-2024,HD,110,6200000,20.5,Basic Materials
+SPRE,PT Soraya Berjaya Indonesia Tbk,03-07-2024,EP,125,2400000,30,Consumer Cyclicals
+PART,PT Cipta Perdana Lancar Tbk,05-07-2024,EP|AO|CP,105,6800000,25,Consumer Cyclicals
+BLES,PT Superior Prima Sukses Tbk,08-07-2024,YJ,183,13138240,15,Basic Materials
+ISEA,PT Indo American Seafoods Tbk,08-07-2024,CP,250,2900000,20.86,Consumer Non-Cyclicals
+GOLF,PT Intra GolfLink Resorts Tbk,08-07-2024,IF|MG|LG|CP,200,19500000,10.01,Consumer Cyclicals
+GUNA,PT Gunanusa Eramandiri Tbk,09-07-2024,GR,150,5000000,20,Consumer Non-Cyclicals
+LABS,PT UBC Medical Indonesia Tbk,10-07-2024,YJ,102,7000000,17.72,Healthcare
+DOSS,PT Global Sukses Digital Tbk,07-08-2024,IF,135,4500000,26.09,Consumer Cyclicals
+NEST,PT Esta Indonesia Tbk,08-08-2024,HD,200,8225000,20,Consumer Non-Cyclicals
+VERN,PT Verona Indah Pictures Tbk,08-10-2024,AI,195,11216500,23.54,Consumer Cyclicals
+PTMR,PT Master Print Tbk,08-10-2024,RG,128,4350000,22.81,Basic Materials
+DAAZ,PT Daaz Bara Lestari Tbk,11-11-2024,HP|YU,880,3000000,15.02,Basic Materials
+BOAT,PT Newport Marine Services Tbk,12-11-2024,OD,100,10004800,28.57,Energy
+NAIK,PT Adiwarna Anugerah Abadi Tbk,13-11-2024,EP,107,7500000,23.08,Industrials
+AADI,PT Adaro Andalan Indonesia Tbk,05-12-2024,LG,5550,7786892,10,Energy
+MDIY,PT Daya Intiguna Yasa Tbk,19-12-2024,CC|C3,1650,25190394,10,Consumer Non-Cyclicals
+YOII,PT Asuransi Digital Bersama Tbk,08-01-2025,LS,100,4120875,12.03,Financials
+KSIX,PT Kentanix Supra International Tbk,08-01-2025,AI,452,3206748,15,Properties & Real Estate
+BRRC,PT Raja Roti Cemerlang Tbk,09-01-2025,XA,210,2915000,30.01,Consumer Non-Cyclicals
+RATU,PT Raharja Energi Cepu Tbk,08-01-2025,HP|AZ,1150,5430108,20,Energy
+HGII,PT Hero Global Investment Tbk,09-01-2025,TP|AI,200,13000000,20,Infrastructures
+DGWG,PT Delta Giri Wacana Tbk,13-01-2025,OD|IF|AH,230,8823530,15,Basic Materials
+CBDK,PT Bangun Kosambi Sukses Tbk,13-01-2025,LG,4060,5668945,10,Properties & Real Estate
+OBAT,PT Brigit Biofarmaka Teknologi Tbk,13-01-2025,AD,350,1700000,28.33,Healthcare
+MINE,PT Sinar Terang Mandiri Tbk,10-03-2025,LG,216,6126653,15,Basic Materials
+KAQI,PT Jantra Grupo Indonesia Tbk,10-03-2025,DR,118,4500000,21.68,Consumer Cyclicals
+YUPI,PT Yupi Indo Jelly Gum Tbk,25-03-2025,CC|C3|TP,2390,8544489,10,Consumer Non-Cyclicals
+MDLA,PT Medela Potentia Tbk,15-04-2025,CC|PD,188,35000000,25,Healthcare
+FORE,PT Fore Kopi Indonesia Tbk,14-04-2025,HP|CC,188,18800000,21.08,Consumer Non-Cyclicals
+DKHH,PT Cipta Sarana Medika Tbk,08-05-2025,EP,132,5300000,20.78,Healthcare
+ASPR,PT Asia Pramulia Tbk,08-07-2025,XA|PG,124,8120000,29.94,Basic Materials
+PSAT,PT Pancaran Samudera Transport Tbk,08-07-2025,LG|SQ,900,2223530,15,Transportation & Logistic
+COIN,PT Indokripto Koin Semesta Tbk,09-07-2025,KI,100,22058824,15,Financials
+PMUI,PT Prima Multi Usaha Indonesia Tbk,10-07-2025,BQ,180,11600000,20,Consumer Cyclicals
+CDIA,PT Chandra Daya Investasi Tbk,09-07-2025,HP|NI|LG|SQ|TP|DP,190,124829375,10,Infrastructures
+BLOG,PT Trimitra Trans Persada Tbk,10-07-2025,SQ,250,5632479,16.67,Transportation & Logistic
+MERI,PT Merry Riana Edukasi Tbk,10-07-2025,YJ,128,2351325,22.72,Consumer Cyclicals
+CHEK,PT Diastika Biotekindo Tbk,10-07-2025,YJ,128,8150000,20.04,Healthcare
+EMAS,PT Merdeka Gold Resources Tbk,23-09-2025,LG|AI|DH|TP|YO|PP|PD,2880,16180233,10,Basic Materials
+PJHB,PT Pelayaran Jaya Hidup Baru Tbk,06-11-2025,PO,330,4800000,20,Transportation & Logistic
+RLCO,PT Abadi Lestari Indonesia Tbk,08-12-2025,IF,168,6250000,20,Consumer Non-Cyclicals
+SUPA,PT Super Bank Indonesia Tbk,17-12-2025,CC|BQ|DX|LG|AZ|KZ,635,44066123,13,Financials
+WBSA,PT BSA Logistics Indonesia Tbk,10-04-2026,MG|IU|TP,168,18000000,20.75,Transportation & Logistic
+JECX,PT Nitrasanata Dharma Tbk,07-07-2026,LG,1250,4879835,15,Healthcare
+JELI,PT Niramas Utama Tbk,07-07-2026,AZ,900,2660000,21.01,Consumer Non-Cyclicals
+EMMI,PT ESA MEDIKA MANDIRI TBK,08-07-2026,OD|RB|RS|IN,470,5228570,30,Healthcare
+BACH,PT Bach Multi Global Tbk,08-07-2026,AO|PO,442,6150000,15.06,Industrials
+PRDL,PT Prodia Diagnostic Line Tbk,09-07-2026,AZ,120,5229000,30,Healthcare
+RANS,PT Rans Entertainmen Indonesia Tbk,10-07-2026,LG,170,25250000,20.02,Consumer Cyclicals

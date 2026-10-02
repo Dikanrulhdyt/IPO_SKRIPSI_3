@@ -1,0 +1,110 @@
+{
+  "model": "Logistic Regression",
+  "features": [
+    "uw_avg_return",
+    "uw_jumlah_ipo",
+    "uw_success_rate",
+    "total_dana_dihimpun",
+    "free_float",
+    "num_underwriters",
+    "sektor_Consumer Cyclicals",
+    "sektor_Consumer Non-Cyclicals",
+    "sektor_Energy",
+    "sektor_Financials",
+    "sektor_Healthcare",
+    "sektor_Industrials",
+    "sektor_Infrastructures",
+    "sektor_Properties & Real Estate",
+    "sektor_Technology",
+    "sektor_Transportation & Logistic"
+  ],
+  "coefficients": {
+    "uw_avg_return": 0.20414599773042666,
+    "uw_jumlah_ipo": -0.18661762567164594,
+    "uw_success_rate": 0.7953400398778412,
+    "total_dana_dihimpun": -0.12030361194203446,
+    "free_float": -0.12767289123601153,
+    "num_underwriters": 0.11217629267244975,
+    "sektor_Consumer Cyclicals": -0.13987427567083696,
+    "sektor_Consumer Non-Cyclicals": 0.05075658502861169,
+    "sektor_Energy": 0.0553286062878638,
+    "sektor_Financials": 0.16946440431368162,
+    "sektor_Healthcare": 0.026791107143015715,
+    "sektor_Industrials": 0.09274509711209943,
+    "sektor_Infrastructures": -0.09710234713998352,
+    "sektor_Properties & Real Estate": -0.24110352001343605,
+    "sektor_Technology": -0.056564263382013834,
+    "sektor_Transportation & Logistic": 0.10949690657916679
+  },
+  "intercept": 0.27260214222410883,
+  "evaluation": {
+    "accuracy": 0.6041666666666666,
+    "precision": 0.7931034482758621,
+    "recall": 0.6388888888888888,
+    "f1": 0.7076923076923077,
+    "confusion_matrix": [
+      [
+        6,
+        6
+      ],
+      [
+        13,
+        23
+      ]
+    ],
+    "auc_roc": 0.7222222222222222
+  },
+  "threshold": "0% (initial return > 0%)",
+  "calibration_bins": [
+    {
+      "prob_min": 0.0,
+      "prob_max": 0.1,
+      "mean_ir": -0.157063786407767
+    },
+    {
+      "prob_min": 0.1,
+      "prob_max": 0.2,
+      "mean_ir": -0.05587479091995218
+    },
+    {
+      "prob_min": 0.2,
+      "prob_max": 0.30000000000000004,
+      "mean_ir": 0.004017542702000725
+    },
+    {
+      "prob_min": 0.30000000000000004,
+      "prob_max": 0.4,
+      "mean_ir": 0.0952797456917645
+    },
+    {
+      "prob_min": 0.4,
+      "prob_max": 0.5,
+      "mean_ir": 0.09888709883616606
+    },
+    {
+      "prob_min": 0.5,
+      "prob_max": 0.6000000000000001,
+      "mean_ir": 0.15075580982027503
+    },
+    {
+      "prob_min": 0.6000000000000001,
+      "prob_max": 0.7000000000000001,
+      "mean_ir": 0.20246874883569857
+    },
+    {
+      "prob_min": 0.7000000000000001,
+      "prob_max": 0.8,
+      "mean_ir": 0.23337753064148883
+    },
+    {
+      "prob_min": 0.8,
+      "prob_max": 0.9,
+      "mean_ir": 0.25433897814083256
+    },
+    {
+      "prob_min": 0.9,
+      "prob_max": 1.0,
+      "mean_ir": 0.2493059366298803
+    }
+  ]
+}

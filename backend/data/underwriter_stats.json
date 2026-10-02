@@ -1,0 +1,322 @@
+{
+  "AD": {
+    "jumlah_ipo": 1,
+    "avg_return": 0.24571428571428572,
+    "success_rate": 1.0
+  },
+  "AH": {
+    "jumlah_ipo": 15,
+    "avg_return": 0.0827606876873292,
+    "success_rate": 0.6666666666666666
+  },
+  "AI": {
+    "jumlah_ipo": 26,
+    "avg_return": 0.1874423890198311,
+    "success_rate": 0.8846153846153846
+  },
+  "AK": {
+    "jumlah_ipo": 3,
+    "avg_return": 0.10917648989952024,
+    "success_rate": 0.6666666666666666
+  },
+  "AN": {
+    "jumlah_ipo": 3,
+    "avg_return": 0.1091111111111111,
+    "success_rate": 0.6666666666666666
+  },
+  "AO": {
+    "jumlah_ipo": 10,
+    "avg_return": 0.08191251778170491,
+    "success_rate": 0.5
+  },
+  "AR": {
+    "jumlah_ipo": 3,
+    "avg_return": 0.25744744744744746,
+    "success_rate": 1.0
+  },
+  "AZ": {
+    "jumlah_ipo": 11,
+    "avg_return": 0.03169906815656212,
+    "success_rate": 0.6363636363636364
+  },
+  "BK": {
+    "jumlah_ipo": 2,
+    "avg_return": 0.051835971408420146,
+    "success_rate": 0.5
+  },
+  "BQ": {
+    "jumlah_ipo": 5,
+    "avg_return": 0.15770778652668418,
+    "success_rate": 0.8
+  },
+  "C3": {
+    "jumlah_ipo": 10,
+    "avg_return": 0.09742704227301278,
+    "success_rate": 0.6
+  },
+  "C4": {
+    "jumlah_ipo": 1,
+    "avg_return": 0.044,
+    "success_rate": 1.0
+  },
+  "CC": {
+    "jumlah_ipo": 15,
+    "avg_return": 0.08026275780886245,
+    "success_rate": 0.6
+  },
+  "CD": {
+    "jumlah_ipo": 1,
+    "avg_return": 0.1,
+    "success_rate": 1.0
+  },
+  "CP": {
+    "jumlah_ipo": 14,
+    "avg_return": 0.1662118844241379,
+    "success_rate": 0.7142857142857143
+  },
+  "CS": {
+    "jumlah_ipo": 5,
+    "avg_return": 0.020857008334923967,
+    "success_rate": 0.4
+  },
+  "D4": {
+    "jumlah_ipo": 1,
+    "avg_return": 0.1301775147928994,
+    "success_rate": 1.0
+  },
+  "DH": {
+    "jumlah_ipo": 1,
+    "avg_return": 0.25,
+    "success_rate": 1.0
+  },
+  "DP": {
+    "jumlah_ipo": 5,
+    "avg_return": 0.13535333022822543,
+    "success_rate": 0.8
+  },
+  "DR": {
+    "jumlah_ipo": 4,
+    "avg_return": 0.18345825018036,
+    "success_rate": 0.75
+  },
+  "DX": {
+    "jumlah_ipo": 2,
+    "avg_return": 0.1220472440944882,
+    "success_rate": 0.5
+  },
+  "EP": {
+    "jumlah_ipo": 11,
+    "avg_return": 0.12947508901549054,
+    "success_rate": 0.6363636363636364
+  },
+  "FS": {
+    "jumlah_ipo": 2,
+    "avg_return": 0.35,
+    "success_rate": 1.0
+  },
+  "FZ": {
+    "jumlah_ipo": 1,
+    "avg_return": 0.35,
+    "success_rate": 1.0
+  },
+  "GR": {
+    "jumlah_ipo": 9,
+    "avg_return": 0.07268269003926743,
+    "success_rate": 0.5555555555555556
+  },
+  "GW": {
+    "jumlah_ipo": 2,
+    "avg_return": -0.021875,
+    "success_rate": 0.0
+  },
+  "HD": {
+    "jumlah_ipo": 22,
+    "avg_return": 0.17743234387896462,
+    "success_rate": 0.7272727272727273
+  },
+  "HP": {
+    "jumlah_ipo": 5,
+    "avg_return": 0.06203309854710963,
+    "success_rate": 0.8
+  },
+  "IF": {
+    "jumlah_ipo": 14,
+    "avg_return": 0.16792360971458797,
+    "success_rate": 0.7857142857142857
+  },
+  "II": {
+    "jumlah_ipo": 7,
+    "avg_return": 0.18645909645909645,
+    "success_rate": 0.8571428571428571
+  },
+  "IN": {
+    "jumlah_ipo": 4,
+    "avg_return": 0.19989944083694083,
+    "success_rate": 0.75
+  },
+  "IP": {
+    "jumlah_ipo": 1,
+    "avg_return": -0.06153846153846154,
+    "success_rate": 0.0
+  },
+  "IU": {
+    "jumlah_ipo": 10,
+    "avg_return": 0.035851321943850434,
+    "success_rate": 0.5
+  },
+  "KI": {
+    "jumlah_ipo": 9,
+    "avg_return": 0.26561469032057267,
+    "success_rate": 1.0
+  },
+  "KK": {
+    "jumlah_ipo": 4,
+    "avg_return": 0.0860027099820627,
+    "success_rate": 0.75
+  },
+  "KZ": {
+    "jumlah_ipo": 6,
+    "avg_return": 0.12535120131004787,
+    "success_rate": 0.8333333333333334
+  },
+  "LG": {
+    "jumlah_ipo": 18,
+    "avg_return": 0.21193349868889996,
+    "success_rate": 0.8888888888888888
+  },
+  "LS": {
+    "jumlah_ipo": 5,
+    "avg_return": 0.015408934707903766,
+    "success_rate": 0.6
+  },
+  "MG": {
+    "jumlah_ipo": 8,
+    "avg_return": 0.21444637726255172,
+    "success_rate": 0.875
+  },
+  "MI": {
+    "jumlah_ipo": 7,
+    "avg_return": 0.1908573515236966,
+    "success_rate": 0.7142857142857143
+  },
+  "NI": {
+    "jumlah_ipo": 8,
+    "avg_return": 0.15050727803618302,
+    "success_rate": 0.875
+  },
+  "OD": {
+    "jumlah_ipo": 13,
+    "avg_return": 0.025175313101876526,
+    "success_rate": 0.6153846153846154
+  },
+  "PD": {
+    "jumlah_ipo": 8,
+    "avg_return": 0.11548406140775776,
+    "success_rate": 0.625
+  },
+  "PF": {
+    "jumlah_ipo": 5,
+    "avg_return": -0.010130069426805518,
+    "success_rate": 0.2
+  },
+  "PG": {
+    "jumlah_ipo": 7,
+    "avg_return": 0.17417818740399385,
+    "success_rate": 0.7142857142857143
+  },
+  "PO": {
+    "jumlah_ipo": 2,
+    "avg_return": 0.24850277927201003,
+    "success_rate": 1.0
+  },
+  "PP": {
+    "jumlah_ipo": 2,
+    "avg_return": 0.1900887573964497,
+    "success_rate": 1.0
+  },
+  "RF": {
+    "jumlah_ipo": 2,
+    "avg_return": 0.176056338028169,
+    "success_rate": 1.0
+  },
+  "RG": {
+    "jumlah_ipo": 1,
+    "avg_return": 0.0703125,
+    "success_rate": 1.0
+  },
+  "RO": {
+    "jumlah_ipo": 1,
+    "avg_return": 0.1301775147928994,
+    "success_rate": 1.0
+  },
+  "RS": {
+    "jumlah_ipo": 5,
+    "avg_return": -0.009709267110841913,
+    "success_rate": 0.2
+  },
+  "RX": {
+    "jumlah_ipo": 1,
+    "avg_return": -0.7872,
+    "success_rate": 0.0
+  },
+  "S0": {
+    "jumlah_ipo": 3,
+    "avg_return": -0.03788082437275985,
+    "success_rate": 0.0
+  },
+  "SA": {
+    "jumlah_ipo": 6,
+    "avg_return": -0.02242805143916464,
+    "success_rate": 0.3333333333333333
+  },
+  "SF": {
+    "jumlah_ipo": 11,
+    "avg_return": 0.17493686868686867,
+    "success_rate": 0.8181818181818182
+  },
+  "SH": {
+    "jumlah_ipo": 6,
+    "avg_return": 0.3083333333333333,
+    "success_rate": 1.0
+  },
+  "SQ": {
+    "jumlah_ipo": 5,
+    "avg_return": 0.2190736842105263,
+    "success_rate": 0.8
+  },
+  "TP": {
+    "jumlah_ipo": 8,
+    "avg_return": 0.174197026657553,
+    "success_rate": 0.875
+  },
+  "XA": {
+    "jumlah_ipo": 24,
+    "avg_return": 0.18700349034749786,
+    "success_rate": 0.7083333333333334
+  },
+  "YJ": {
+    "jumlah_ipo": 11,
+    "avg_return": 0.23635205006010293,
+    "success_rate": 0.8181818181818182
+  },
+  "YO": {
+    "jumlah_ipo": 2,
+    "avg_return": 0.147,
+    "success_rate": 1.0
+  },
+  "YP": {
+    "jumlah_ipo": 20,
+    "avg_return": 0.038727383824729164,
+    "success_rate": 0.6
+  },
+  "YU": {
+    "jumlah_ipo": 1,
+    "avg_return": 0.25,
+    "success_rate": 1.0
+  },
+  "ZP": {
+    "jumlah_ipo": 4,
+    "avg_return": 0.072586820312812,
+    "success_rate": 0.75
+  }
+}
