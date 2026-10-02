@@ -181,6 +181,9 @@ const PredictIPO = () => {
                 className="border-gray-200 focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 transition-all duration-200"
                 required
               />
+              <p className="text-xs text-gray-400">
+                Data IPO baru dapat diperoleh melalui platform e-IPO atau dari masing-masing aplikasi sekuritas.
+              </p>
             </div>
 
             {/* Dua Kolom: Underwriter & Sektor */}

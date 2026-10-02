@@ -21,7 +21,7 @@ export default function Hero() {
         <p>
           Platform prediksi IPO berbasis Logistic Regression
           untuk membantu investor melakukan analisis
-          berdasarkan performa underwriter.
+          berdasarkan Kinerja Underwriter.
         </p>
 
         <button>

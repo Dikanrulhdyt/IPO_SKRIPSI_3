@@ -52,7 +52,7 @@ export default function LandingPage() {
               <p className="text-sm sm:text-base text-slate-300 leading-relaxed max-w-lg">
                 Platform prediksi keberhasilan Initial Public Offering (IPO)
                 berbasis Logistic Regression yang membantu investor
-                menganalisis performa underwriter berdasarkan data historis
+                menganalisis Kinerja Underwriter berdasarkan data historis
                 sehingga proses pengambilan keputusan menjadi lebih cepat,
                 objektif, dan akurat.
               </p>

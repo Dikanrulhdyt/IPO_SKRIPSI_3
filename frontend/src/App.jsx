@@ -39,7 +39,7 @@ function Navbar() {
     { path: '/dashboard', label: 'Dashboard', icon: BarChart3 },
     { path: '/ipo-data', label: 'Data IPO', icon: Database },
     { path: '/predict', label: 'Analisis IPO', icon: TrendingUp },
-    { path: '/uw-stats', label: 'Performa UW', icon: Users },
+    { path: '/uw-stats', label: 'Kinerja UW', icon: Users },
     { path: '/model-info', label: 'Tentang Model', icon: Info },
     { path: '/glossary', label: 'Glossary', icon: BookOpen },
   ];

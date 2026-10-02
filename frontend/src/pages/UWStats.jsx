@@ -110,7 +110,7 @@ const UWStats = () => {
           <CardHeader>
             <CardTitle className="flex items-center gap-2 text-2xl">
               <Building2 className="w-6 h-6 text-blue-600" />
-              Performa Underwriter
+              Kinerja Underwriter
             </CardTitle>
           </CardHeader>
           <CardContent>
@@ -135,7 +135,7 @@ const UWStats = () => {
             <div>
               <CardTitle className="flex items-center gap-2 text-2xl">
                 <Building2 className="w-6 h-6 text-blue-600" />
-                Performa Underwriter
+                Kinerja Underwriter
               </CardTitle>
               <p className="text-sm text-gray-500 mt-1">
                 Analisis performa penjamin emisi (underwriter) dalam penanganan IPO

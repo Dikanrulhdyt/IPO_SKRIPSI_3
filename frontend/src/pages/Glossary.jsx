@@ -8,12 +8,28 @@ import { Search, BookOpen } from 'lucide-react';
 // ============================================================
 const glossaryData = [
   {
+    term: 'Akurasi',
+    definition:
+      'Proporsi prediksi yang benar dari seluruh data pengujian yang digunakan untuk mengevaluasi kinerja model klasifikasi.',
+    formula: 'Akurasi = (TP + TN) / (TP + TN + FP + FN)',
+    explanation:
+      'Akurasi menunjukkan seberapa banyak prediksi model yang benar secara keseluruhan.',
+  },
+  {
     term: 'Asset Turnover',
     definition:
       'Rasio yang menunjukkan efisiensi aset yang dimiliki perusahaan dalam menghasilkan penjualan. Dihitung dengan membagi pendapatan dengan total aset. Semakin besar rasionya, semakin tinggi efisiensi perusahaan.',
     formula: 'Asset Turnover = Sales / Average Total Asset',
     explanation:
       'Rasio ini berguna untuk membandingkan efisiensi penggunaan aset sebuah perusahaan dengan perusahaan lain dalam industri yang sama. Nilai yang semakin tinggi menunjukkan perusahaan semakin efisien dalam memanfaatkan asetnya.',
+  },
+  {
+    term: 'AUC-ROC',
+    definition:
+      'Ukuran evaluasi yang menggambarkan kemampuan model klasifikasi dalam membedakan kelas positif dan kelas negatif pada berbagai nilai threshold.',
+    formula: 'AUC = Area Under the Receiver Operating Characteristic Curve',
+    explanation:
+      'Nilai AUC-ROC menunjukkan kemampuan model dalam membedakan IPO sukses dan IPO tidak sukses. Nilai yang semakin tinggi menunjukkan kemampuan diskriminasi model yang semakin baik.',
   },
   {
     term: 'Auto Rejection',
@@ -24,12 +40,44 @@ const glossaryData = [
       'Mekanisme ini bertujuan menjaga perdagangan tetap wajar dan membatasi fluktuasi harga ekstrem. Pada saham IPO, ARA hari pertama sering dianggap ekspektasi keuntungan bagi investor.',
   },
   {
+    term: 'Avg Return',
+    definition:
+      'Nilai rata-rata initial return IPO yang berkaitan dengan suatu kelompok data atau underwriter berdasarkan data historis.',
+    formula: 'Avg Return = Σ Initial Return / Jumlah IPO',
+    explanation:
+      'Avg Return digunakan untuk menggambarkan rata-rata tingkat return yang dihasilkan dari IPO berdasarkan data historis.',
+  },
+  {
     term: 'Bubble Warning',
     definition:
       'Peringatan yang muncul di sistem ketika estimasi initial return melebihi batas ARA yang berlaku di BEI, mengindikasikan potensi terbentuknya gelembung harga (price bubble).',
     formula: 'Bubble Warning aktif jika Estimasi IR > Batas ARA',
     explanation:
       'Lonjakan harga ekstrem dalam waktu singkat tidak selalu mencerminkan nilai fundamental perusahaan. Peringatan ini membantu investor berhati-hati terhadap risiko koreksi tajam.',
+  },
+  {
+    term: 'Dana Dihimpun',
+    definition:
+      'Jumlah dana yang diperoleh perusahaan melalui penawaran saham kepada publik dalam proses IPO.',
+    formula: 'Dana Dihimpun = Harga IPO × Jumlah Saham yang Ditawarkan',
+    explanation:
+      'Dana dihimpun menggambarkan nilai modal yang berhasil diperoleh perusahaan melalui penawaran umum perdana.',
+  },
+  {
+    term: 'Data Historis IPO',
+    definition:
+      'Kumpulan data IPO yang telah terjadi pada periode sebelumnya dan digunakan sebagai dasar analisis serta pelatihan model prediksi.',
+    formula: '-',
+    explanation:
+      'Data historis IPO mencakup informasi seperti kode emiten, harga IPO, jumlah saham, free float, underwriter, sektor, dan initial return.',
+  },
+  {
+    term: 'Distribusi IPO',
+    definition:
+      'Penyajian jumlah atau persebaran data IPO berdasarkan kategori tertentu untuk melihat pola dan komposisi data.',
+    formula: '-',
+    explanation:
+      'Distribusi IPO dapat digunakan untuk melihat persebaran emiten berdasarkan sektor, tahun, atau kategori lainnya.',
   },
   {
     term: 'Emiten',
@@ -46,6 +94,14 @@ const glossaryData = [
     formula: '-',
     explanation:
       'Melalui e-IPO, investor dapat memesan saham IPO tanpa harus menghubungi sekuritas secara manual. Sistem ini meningkatkan inklusi investor ritel di pasar modal Indonesia.',
+  },
+  {
+    term: 'F1-Score',
+    definition:
+      'Nilai yang menggabungkan presisi dan recall dalam satu ukuran evaluasi kinerja model klasifikasi.',
+    formula: 'F1-Score = 2 × (Presisi × Recall) / (Presisi + Recall)',
+    explanation:
+      'F1-Score digunakan untuk melihat keseimbangan antara kemampuan model menghasilkan prediksi positif yang tepat dan menemukan data positif.',
   },
   {
     term: 'Free Float',
@@ -72,6 +128,22 @@ const glossaryData = [
       'Nilai IR positif menunjukkan investor untung (underpricing), sedangkan IR negatif menunjukkan investor rugi (overpricing). IR menjadi dasar penentuan label keberhasilan IPO di sistem ini.',
   },
   {
+    term: 'IPO Per Tahun',
+    definition:
+      'Jumlah atau distribusi perusahaan yang melakukan Initial Public Offering pada setiap tahun dalam periode pengamatan.',
+    formula: '-',
+    explanation:
+      'IPO per tahun digunakan untuk melihat perkembangan aktivitas IPO dari waktu ke waktu berdasarkan data historis.',
+  },
+  {
+    term: 'IPO Sukses',
+    definition:
+      'IPO yang memiliki initial return positif pada hari pertama perdagangan saham di pasar sekunder.',
+    formula: 'IPO Sukses jika IR > 0%',
+    explanation:
+      'Dalam sistem ini, IPO dikategorikan sukses apabila initial return lebih besar dari 0%, sedangkan initial return 0% atau negatif dikategorikan tidak sukses.',
+  },
+  {
     term: 'Kapitalisasi Pasar (Market Cap)',
     definition:
       'Nilai total perusahaan di pasar modal, dihitung dari harga saham dikalikan jumlah saham beredar.',
@@ -80,12 +152,44 @@ const glossaryData = [
       'Digunakan untuk mengkategorikan ukuran perusahaan (Kecil, Sedang, Besar) dan membandingkan skala emiten.',
   },
   {
+    term: 'Kode Broker',
+    definition:
+      'Kode yang digunakan untuk mengidentifikasi perusahaan sekuritas atau broker yang terlibat dalam transaksi atau proses penjaminan emisi saham.',
+    formula: '-',
+    explanation:
+      'Dalam sistem ini, kode broker digunakan untuk mengidentifikasi underwriter berdasarkan kode sekuritas yang tercatat pada data IPO.',
+  },
+  {
+    term: 'Kode Emiten',
+    definition:
+      'Kode atau ticker saham yang digunakan untuk mengidentifikasi suatu emiten dalam perdagangan saham di Bursa Efek Indonesia.',
+    formula: '-',
+    explanation:
+      'Kode emiten digunakan sebagai identitas singkat perusahaan dalam data IPO dan data perdagangan saham.',
+  },
+  {
+    term: 'Koefisien',
+    definition:
+      'Nilai parameter pada model regresi logistik yang menunjukkan arah dan besarnya hubungan suatu variabel terhadap log odds terjadinya kelas yang diprediksi.',
+    formula: 'z = β₀ + β₁X₁ + β₂X₂ + ... + βₙXₙ',
+    explanation:
+      'Koefisien positif menunjukkan peningkatan variabel berkaitan dengan peningkatan log odds kelas positif, sedangkan koefisien negatif menunjukkan arah sebaliknya.',
+  },
+  {
     term: 'Lot',
     definition:
       'Satuan perdagangan saham di Bursa Efek Indonesia, di mana 1 lot sama dengan 100 lembar saham.',
     formula: '1 Lot = 100 Lembar Saham',
     explanation:
       'Semua transaksi saham di BEI menggunakan satuan lot, bukan lembar, untuk memudahkan pencatatan dan efisiensi transaksi.',
+  },
+  {
+    term: 'Market Cap',
+    definition:
+      'Nilai kapitalisasi pasar perusahaan yang diperoleh dari perkalian harga saham dengan jumlah saham beredar.',
+    formula: 'Market Cap = Harga Saham × Jumlah Saham Beredar',
+    explanation:
+      'Market Cap digunakan untuk menggambarkan nilai perusahaan berdasarkan harga pasar saham dan jumlah saham yang beredar.',
   },
   {
     term: 'Maximum Likelihood Estimation (MLE)',
@@ -104,12 +208,28 @@ const glossaryData = [
       'Kebalikan dari underpricing. Emiten diuntungkan karena dana yang dihimpun optimal, tetapi investor mengalami kerugian.',
   },
   {
+    term: 'Presisi',
+    definition:
+      'Proporsi prediksi positif yang benar-benar termasuk dalam kelas positif dari seluruh data yang diprediksi sebagai positif.',
+    formula: 'Presisi = TP / (TP + FP)',
+    explanation:
+      'Presisi menunjukkan ketepatan model ketika memprediksi IPO sebagai IPO sukses.',
+  },
+  {
     term: 'Probabilitas Sukses',
     definition:
       'Peluang yang dihasilkan model regresi logistik bahwa suatu IPO akan memberikan initial return positif pada hari pertama perdagangan.',
     formula: 'P(Y=1) = 1 / (1 + e⁻ᶻ), dengan z = β₀ + β₁X₁ + ... + βₙXₙ',
     explanation:
       'Jika P > 0,5 maka IPO diprediksi SUKSES, dan jika P ≤ 0,5 maka diprediksi TIDAK SUKSES. Probabilitas dihitung menggunakan fungsi sigmoid.',
+  },
+  {
+    term: 'Recall',
+    definition:
+      'Proporsi data positif yang berhasil dikenali atau diprediksi dengan benar oleh model.',
+    formula: 'Recall = TP / (TP + FN)',
+    explanation:
+      'Recall menunjukkan kemampuan model dalam menemukan seluruh IPO yang sebenarnya termasuk dalam kategori sukses.',
   },
   {
     term: 'Regresi Logistik',
@@ -136,6 +256,22 @@ const glossaryData = [
       'Setiap sektor memiliki karakteristik risiko dan prospek yang berbeda. Variabel ini di-encode menggunakan one-hot encoding sebelum masuk model.',
   },
   {
+    term: 'Success Rate',
+    definition:
+      'Persentase IPO sukses dari seluruh IPO yang ditangani atau termasuk dalam suatu kelompok data berdasarkan kriteria keberhasilan yang digunakan sistem.',
+    formula: 'Success Rate = (Jumlah IPO Sukses / Total IPO) × 100%',
+    explanation:
+      'Success Rate digunakan untuk menunjukkan proporsi keberhasilan IPO berdasarkan data historis.',
+  },
+  {
+    term: 'Threshold 0%',
+    definition:
+      'Batas nilai initial return yang digunakan untuk menentukan label keberhasilan IPO, yaitu IPO dinyatakan sukses apabila initial return lebih besar dari 0%.',
+    formula: 'IPO Sukses jika IR > 0%; IPO Tidak Sukses jika IR ≤ 0%',
+    explanation:
+      'Threshold 0% digunakan sebagai batas klasifikasi antara IPO dengan initial return positif dan IPO dengan initial return nol atau negatif.',
+  },
+  {
     term: 'Underpricing',
     definition:
       'Fenomena ketika harga saham di pasar perdana (IPO) lebih rendah daripada harga di pasar sekunder hari pertama, sehingga investor memperoleh keuntungan.',
@@ -150,6 +286,14 @@ const glossaryData = [
     formula: '-',
     explanation:
       'Underwriter berpengalaman dan bereputasi baik menjadi sinyal kredibilitas yang mengurangi asimetri informasi antara emiten dan investor.',
+  },
+  {
+    term: 'Ukuran IPO',
+    definition:
+      'Ukuran atau skala suatu IPO yang menggambarkan besarnya nilai penawaran berdasarkan harga IPO dan jumlah saham yang ditawarkan.',
+    formula: 'Ukuran IPO = Harga IPO × Total Saham',
+    explanation:
+      'Ukuran IPO digunakan sebagai salah satu variabel untuk menggambarkan skala penawaran saham dalam analisis.',
   },
   {
     term: 'Yahoo Finance API',
@@ -235,13 +379,17 @@ const Glossary = () => {
               >
                 #
               </button>
+
               {ALPHABET.map((letter) => {
                 const isAvailable = availableLetters.has(letter);
                 const isActive = activeLetter === letter;
+
                 return (
                   <button
                     key={letter}
-                    onClick={() => isAvailable && setActiveLetter(letter)}
+                    onClick={() =>
+                      isAvailable && setActiveLetter(letter)
+                    }
                     disabled={!isAvailable}
                     className={`w-8 h-8 rounded-md text-xs font-semibold transition-all ${
                       isActive
@@ -270,6 +418,7 @@ const Glossary = () => {
               <ul className="divide-y">
                 {filtered.map((item) => {
                   const isActive = selected?.term === item.term;
+
                   return (
                     <li key={item.term}>
                       <button

@@ -122,7 +122,7 @@ const UWDetail = () => {
             <Link to="/uw-stats">
               <Button variant="outline" className="mt-4 gap-2">
                 <ArrowLeft className="w-4 h-4" />
-                Kembali ke Performa UW
+                Kembali ke Kinerja UW
               </Button>
             </Link>
           </CardContent>
@@ -152,7 +152,7 @@ const UWDetail = () => {
             <Link to="/uw-stats">
               <Button variant="outline" className="mt-4 gap-2">
                 <ArrowLeft className="w-4 h-4" />
-                Kembali ke Performa UW
+                Kembali ke Kinerja UW
               </Button>
             </Link>
           </CardContent>
